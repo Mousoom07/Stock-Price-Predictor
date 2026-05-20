@@ -154,4 +154,4 @@ The project successfully predicts stock market trends using ARIMA forecasting te
 
 ## Author
 
-Developed by Mousoom Sama
+Developed by Mousoom Samanta
